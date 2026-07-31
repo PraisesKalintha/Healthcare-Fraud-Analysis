@@ -50,7 +50,7 @@ A complete data analysis project designed to detect and quantify fraudulent heal
 
 ---
 
-# 📖 What We Found — The Data Story
+# 📖 Foundings — The Data Story
 
 # The Scale of the Problem
 Out of 1,500 patient records audited, ****613 cases (40.87%) were fraudulent****, with fraud accounting for
