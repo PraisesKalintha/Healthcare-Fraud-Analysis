@@ -11,10 +11,6 @@
 Healthcare fraud costs the global insurance industry over ****$455**** billion annually. This project builds an end-to-end SQL and Power BI audit framework to detect, classify, and quantify four fraud patterns across ****1,500**** patient billing records — surfacing ****₹248M in fraudulent claims**** and a ****40.87% overall fraud rate****.
 
 
-
-
-
-
 # 📌 Project Overview
 A complete data analysis project designed to detect and quantify fraudulent healthcare billing patterns using SQL for deep data interrogation and Power BI for executive-ready visual reporting. The project classifies billing records into four fraud categories — ****Phantom Billing, Fake Treatment, Ghost Enrollee,**** and ****No Fraud**** — and delivers actionable financial insights that support audit, compliance, and risk management decisions.
 
